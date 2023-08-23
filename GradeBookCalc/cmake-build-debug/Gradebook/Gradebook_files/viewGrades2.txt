@@ -1,0 +1,80 @@
+Item,Category,Activity,Grade Points,Possible Points
+Midsemester Grade,,,2.122e-314,7.90505e-323
+TA,,Graded,2.122e-314,7.90505e-323
+Week 1 Quizam: Chemicals of Life,Quizams,Upcoming,2.122e-314,20
+Week 2 Quizam: Cells and Membranes,Quizams,Upcoming,2.122e-314,20
+Week 3 Quizam: Energy and Cell Respiration,Quizams,Graded,16,20
+Week 4 Quizam: Anaerobic Respiration and Photosynthesis,Quizams,Graded,10,20
+Week 5 Quizam: The Central Dogma, DNA structure and synthesis,Quizams,Upcoming,10,20
+Week 6 Quizam: Mitosis, Meiosis and Mutation,Quizams,Graded,14,20
+Week 7 Quizam: Mendelian Genetics,Quizams,Graded,20,20
+Week 8 Quizam,Quizams,Graded,20,20
+Week 9 Quizam: Animal Form and Function and Gas Exchange,Quizams,Graded,20,20
+Week 10 Quizam: Circulation and Thermoregulation,Quizams,Graded,12,20
+Week 11 Quizam: Osmoregulation, Nutrition and Digestion,Quizams,Graded,20,20
+Week 12 Quizam: The Immune System,Quizams,Graded,12,20
+Week 13 Quizam: Cell Signaling and Hormones,Quizams,Graded,10,20
+Week 14 Quizam: The Nervous System,Quizams,Graded,18,20
+Unit 1: Critical Thinking Problem (Due end of day  2/15),Critical Thinking Problem,Graded,12,20
+Unit 2: Critical Thinking Problem (Due end of day 3/15),Critical Thinking Problem,Graded,20,20
+Unit 3: Critical Thinking Problem (Due end of day 4/12),Critical Thinking Problem,Submitted,20,20
+Unit 4: Critical Thinking Problem (Due end of day 5/3),Critical Thinking Problem,Submitted,20,20
+Week 1 In-Lecture Quiz,In-Lecture Quiz,Upcoming,20,4
+Week 2 In-Lecture Quiz,In-Lecture Quiz,Graded,0,4
+Week 3 In-Lecture Quiz,In-Lecture Quiz,Graded,2,4
+Week 4 In-Lecture Quiz,In-Lecture Quiz,Graded,3.25,4
+Week 5 In-Lecture Quiz,In-Lecture Quiz,Graded,3.42857,4
+Week 6 In-Lecture Quiz,In-Lecture Quiz,Graded,2,4
+Week 7 In-Lecture Quiz,In-Lecture Quiz,Graded,3,4
+Week 8 In-Lecture Quiz,In-Lecture Quiz,Graded,4,4
+Week 15 In-Lecture Quiz,In-Lecture Quiz,Upcoming,4,4
+JoVE Core Chapter 1 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 2 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 3 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 4 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 5 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 7 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 8 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 9 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 13 Quiz,Reading Quiz,Graded,2,4
+JoVE Core Chapter 14 Quiz,Reading Quiz,Graded,3.6,4
+JoVE Core Chapter 10 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 11 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 12 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 31 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 25 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 22 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 23 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 17 Quiz,Reading Quiz,Graded,3.6,4
+JoVE Core Chapter 24 Quiz,Reading Quiz,Graded,4,4
+JoVe Core Chapter 6 Quiz,Reading Quiz,Graded,3.6,4
+JoVE Core Chapter 21 Quiz,Reading Quiz,Graded,3.2,4
+JoVE Core Chapter 18 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 19 Quiz,Reading Quiz,Graded,4,4
+JoVE Core Chapter 34/36 Quiz,Reading Quiz,Graded,4,4
+Mid-Semester Total (out of 335),,,4,4
+Metric Conversions &amp; Scientific Notation Online Exercise,Microscopy,Graded,7,8
+Microscopy &amp; Measurement Lab Assignment,Microscopy,Graded,6.5,7
+Laboratory Safety Exercise,Laboratory Assignments,Graded,15,15
+Week 2 Lab: Quantitative Techniques &amp; Error in Measurement,Laboratory Assignments,Graded,12,15
+Week 3 Lab: Microscopy &amp; Measurement,Laboratory Assignments,Graded,13.5,15
+Week 4 Lab: Cell Structure and Function,Laboratory Assignments,Graded,0,15
+Week 5 Lab: Enzymes,Laboratory Assignments,Graded,0,15
+Week 6 Lab: Photosynthesis,Laboratory Assignments,Upcoming,0,15
+Week 7 Lab: Respiration,Laboratory Assignments,Upcoming,0,15
+Week 8 Lab: Group Project Workshop,Laboratory Assignments,Graded,15,15
+Week 11 Lab: Mitosis and Meiosis,Laboratory Assignments,Upcoming,15,15
+Week 12 Lab: Electrophoresis,Laboratory Assignments,Upcoming,15,15
+Animal Anatomy &amp; Physiology,Laboratory Assignments,Upcoming,15,15
+Vertebrate Anatomy and Physiology In-Person Practical,Laboratory Practical,Graded,8,10
+Vertebrate Anatomy and Physiology Online Practical,Laboratory Practical,Graded,10,10
+Week 3: Comparing Primary &amp; Secondary Sources,Laboratory Group Project,Graded,0,5
+Week 3: Finding Primary &amp; Secondary Sources,Laboratory Group Project,Graded,0,5
+Week 4: Reading &amp; Analyzing Primary Sources,Laboratory Group Project,Graded,0,5
+Week 4: Scientific Communication,Laboratory Group Project,Graded,0,5
+Group Project Worksheet,Laboratory Group Project,Graded,5,5
+Group Project: Draft,Laboratory Group Project,Graded,10,10
+Group Project: Presentation,Laboratory Group Project,Graded,48,50
+Intragroup Evaluation,Laboratory Group Project,Graded,5,5
+Feedback on Online Exams,Survey,Upcoming,5,5
+Quizam Survey,Survey,Graded,5,5
