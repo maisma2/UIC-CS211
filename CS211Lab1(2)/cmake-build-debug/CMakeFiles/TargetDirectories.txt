@@ -1,3 +1,0 @@
-C:/Users/maism/CLionProjects/CS211Lab1(2)/cmake-build-debug/CMakeFiles/CS211Lab1_2_.dir
-C:/Users/maism/CLionProjects/CS211Lab1(2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maism/CLionProjects/CS211Lab1(2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

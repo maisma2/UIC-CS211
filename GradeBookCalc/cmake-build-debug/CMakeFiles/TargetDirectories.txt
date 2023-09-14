@@ -1,3 +1,0 @@
-C:/Users/maism/CLionProjects/GradeBookCalc/cmake-build-debug/CMakeFiles/GradeBookCalc.dir
-C:/Users/maism/CLionProjects/GradeBookCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maism/CLionProjects/GradeBookCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
